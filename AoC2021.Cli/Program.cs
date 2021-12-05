@@ -8,6 +8,9 @@ namespace AoC2021.Cli
         static void Main(string[] args)
         {
             PrintDay<Day01>();
+            PrintDay<Day02>();
+            PrintDay<Day03>();
+            PrintDay<Day04>();
         }
 
         private static void PrintDay<T>() where T : IDay, new()
