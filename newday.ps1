@@ -1,4 +1,4 @@
-$daynumber = "09"
+$daynumber = "10"
 
 New-Item -Path "D:\dev\c#\AoC2021\AoC2021.Cli\Data\day$($daynumber).txt" -ItemType File
 New-Item -Path "D:\dev\c#\AoC2021\AoC2021.Cli\Data\Test\testday$($daynumber).txt" -ItemType File
