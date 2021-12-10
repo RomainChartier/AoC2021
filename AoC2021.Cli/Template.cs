@@ -13,13 +13,16 @@ namespace AoC2021.Cli
 
         public object Part1()
         {
-            throw new Exception();
+
+
+            return 0;
         }
 
         public object Part2()
         {
 
-            throw new Exception();
+
+            return 0;
         }
     }
 }
